@@ -6,3 +6,11 @@ Ray Tracing Mpi from SuperComputing Program
 해당 코드는 python의 matplotlib 모듈을 활용해서 태양계 그림을 만든 장면이다.
 
 mpi라는 모듈을 이용하여 분활 계산이 가능하다.
+
+해당 코드를 돌려보면 image.png와 같이 나온다.    
+
+```txt
+mpi4py
+numpy
+matplotlib
+```
